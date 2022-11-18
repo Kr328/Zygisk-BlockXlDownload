@@ -1,0 +1,6 @@
+id=zygisk-block-xldownload
+name=Zygisk - Block .xlDownload
+version=1.0
+versionCode=1
+author=Kr328
+description=Block /sdcard/.xlDownload generate.
